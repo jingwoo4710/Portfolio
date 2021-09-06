@@ -13,7 +13,7 @@ A collection of selected projects to demonstrate skill sets, knowledge, and expe
   - Data pre-processing and machine learning models
   - Language : Python
 
-### 3. 현대자동차 연구개발본부 AI경진대회 
+### 3. 현대자동차 연구개발본부 AI경진대회 (Confidential)
   - Construct and Optimize Data Pipeline 
   - Deep Learning Architecture Modeling
   - Paper Implementation
