@@ -1,4 +1,6 @@
-# Graduation thesis
+# The impact of cause-specific mortality forecasting on projections of life
+
+expectancy
 ## Overview
   Since the medical systems and the people’s acknowledgement of the health have been improved,
 average life expectancy has been increasing over time world-wide. Since actuarial products are strongly dependent
