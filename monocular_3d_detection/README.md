@@ -1,4 +1,4 @@
-# Paper Implementation
+# [Original Repository](https://github.com/jingwoo4710/Proj2_visualDet3D)
 
 ##  1. Intro
 This repo aims to reproduce the results in reference to the [official repo](https://github.com/Owen-Liuyuxuan/visualDet3D) for the purpose of studying Ground-aware Monocular 3D Object Detection for Autonomous Driving
