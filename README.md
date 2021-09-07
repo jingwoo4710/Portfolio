@@ -23,6 +23,7 @@ A collection of selected projects to demonstrate skill sets, knowledge, and expe
   - Paper Implementation
   - Visualization 
   - Language : Python(Tensorflow)
+  - [Github_repo](https://github.com/jingwoo4710/Proj2_visualDet3D)
 
 ### 3. 현대자동차 연구개발본부 AI경진대회 (Confidential)
   - Construct and Optimize Data Pipeline 
