@@ -25,7 +25,12 @@ A collection of selected projects to demonstrate skill sets, knowledge, and expe
   - Data pre-processing and machine learning models
   - Language : Python
 
-### 5. 현대자동차 연구개발본부 AI경진대회 (Confidential)
+### 5. "Attention Is All You Need" paper implementation
+  - Hyper parameter tuning and custom data application.
+  - Make Chat Bot.
+  - Language : Python(tensorflow2)
+
+### 6. 현대자동차 연구개발본부 AI경진대회 (Confidential)
   - Construct and Optimize Data Pipeline 
   - Deep Learning Architecture Modeling
   - Paper Implementation
